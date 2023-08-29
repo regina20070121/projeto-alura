@@ -8,3 +8,9 @@ body{
 h1{ 
     background-color: white;
 }
+h2{
+   background-color: black;
+   font-size: 24pt;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
